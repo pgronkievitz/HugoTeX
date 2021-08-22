@@ -8,6 +8,8 @@ A hugo theme which looks like a LaTeX document.
 
 This theme is heavily inspired by [latex-css](https://latex.now.sh/).
 
+This fork is aiming at Polish language and Indieweb.
+
 ## Quick Start
 
 ```bash
